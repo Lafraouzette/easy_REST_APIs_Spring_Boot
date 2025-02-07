@@ -15,11 +15,11 @@ Les tests des endpoints sont effectués avec **HAL Explorer**.
 
 ## 🖼️ Image de conception  
 _(Ajoutez ici l'image de conception en insérant le chemin ou l'URL de l'image)_  
-`![Diagramme de conception](conception.png)`
-
+![Diagramme de conception](./conception.png)
 ---
 
 ## 🏗️ Architecture du projet  
+```
 │   CrudRestApisApplication.java
 │
 ├───DAO
@@ -36,7 +36,7 @@ _(Ajoutez ici l'image de conception en insérant le chemin ou l'URL de l'image)_
             Role.java
             Student.java
             User.java
-
+```
 ---
 
 ## 🔍 HAL Explorer & Spring Data REST Repositories  
