@@ -14,7 +14,6 @@ Les tests des endpoints sont effectués avec **HAL Explorer**.
 ---
 
 ## 🖼️ Image de conception  
-_(Ajoutez ici l'image de conception en insérant le chemin ou l'URL de l'image)_  
 ![Diagramme de conception](./conception.png)
 ---
 
@@ -58,5 +57,5 @@ Par exemple :
 ---
 
 ## 🖼️ Resultat 
-`![Rest APIs](HAL_Explorer.png)`
-`![exemple](post_method_test.png)`
+![Rest APIs](./HAL_Explorer.png)
+![exemple](./post_method_test.png)
